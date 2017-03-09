@@ -1,0 +1,94 @@
+{
+  "dialogues": [
+    {
+      "characterType": 1,
+      "name": "Teresa",
+      "atlasImageName": "Teresa",
+      "dialogueText":"Hey Maria, You look sad! What happened!"
+    },
+    {
+      "characterType": 0,
+      "name": "Maria",
+      "atlasImageName": "sad",
+      "dialogueText":"I dont want to go to school."
+    },
+    {
+      "characterType": 1,
+      "name": "Teresa",
+      "atlasImageName": "Teresa",
+      "dialogueText":"Why not!"
+    },
+    {
+      "characterType": 0,
+      "name": "Maria",
+      "atlasImageName": "sad",
+      "dialogueText":"Some of the students make fun of me and from this morning.."
+    },
+    {
+      "characterType": 1,
+      "name": "Teresa",
+      "atlasImageName": "Teresa",
+      "dialogueText":"What happened this morning!!"
+    },
+	{
+      "characterType": 0,
+      "name": "Maria",
+      "atlasImageName": "sad",
+      "dialogueText":"I cannot log in to my email. It says wrong password everytime!"
+    },
+    {
+      "characterType": 1,
+      "name": "Teresa",
+      "atlasImageName": "Teresa",
+      "dialogueText":"Did you try to reset your password?"
+    },
+    {
+      "characterType": 0,
+      "name": "Maria",
+      "atlasImageName": "sad",
+      "dialogueText":"Yes but still it asks for old password!!"
+    },
+    {
+      "characterType": 1,
+      "name": "Teresa",
+      "atlasImageName": "Teresa",
+      "dialogueText":"I see your password is written in the post-it!"
+    },
+    {
+      "characterType": 0,
+      "name": "Maria",
+      "atlasImageName": "sad",
+      "dialogueText":"Yes, I thought it would be easy to remember password to have it on post-it!"
+    },
+	{
+      "characterType": 1,
+      "name": "Teresa",
+      "atlasImageName": "Teresa",
+      "dialogueText":"Others could see it too, some one may have stolen your password and changed it!"
+    },
+    {
+      "characterType": 0,
+      "name": "Maria",
+      "atlasImageName": "sad",
+      "dialogueText":"Oh no!! I am doomed!"
+    },
+    {
+      "characterType": 1,
+      "name": "Teresa",
+      "atlasImageName": "Teresa",
+      "dialogueText":"Sadly, your email account is hacked as someone may have cracked your password."
+    },
+    {
+      "characterType": 0,
+      "name": "Maria",
+      "atlasImageName": "sad",
+      "dialogueText":"What should I do now?!"
+    },
+	{
+      "characterType": 1,
+      "name": "Teresa",
+      "atlasImageName": "Teresa",
+      "dialogueText":"Do not worry, let me help you for what you need to do the next!"
+    }
+  ]
+}
